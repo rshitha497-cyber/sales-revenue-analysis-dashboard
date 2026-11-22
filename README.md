@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales & Revenue Analysis Dashboard
 
 ## Project Description
@@ -40,3 +41,6 @@ streamlit run app.py
 - requirements.txt - Required libraries
 - .gitignore - Files excluded from Git
 -
+=======
+# sales-revenue-analysis-dashboard
+>>>>>>> 14a5bfaac0a1cb82946a2baf0f6fb6f45ea05f55
